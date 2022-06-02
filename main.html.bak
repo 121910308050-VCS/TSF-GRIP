@@ -1,0 +1,14 @@
+<html>
+
+<frameset rows="33.3%,90%" border='0'>
+<frameset cols="25%,75%">
+ <frame src = "first.html" name="f1" scrolling="off" />
+ <frame src = "second.html" name="f2" />
+</frameset>
+<frameset cols="25%,75%">
+ <frame src = "thrid.html" name="f3" scrolling="off"/>
+ <frame src = "fourth.html" name="f4" />
+</frameset>
+<frameset>
+</html>
+
