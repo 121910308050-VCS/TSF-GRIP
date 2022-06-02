@@ -1,7 +1,0 @@
-
-body {
-  background-image: url('C:\Users\vchan\OneDrive\Desktop\Sparks\2.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
